@@ -10,7 +10,8 @@ public class Main {
         System.out.print("Введи свой возраст: ");
         int age = scanner.nextInt();
 
-        System.out.println("Привtет, " + name + "! Тебе " + age + " лет.");
+        System.out.println("Привет, " + name + "! Тебе " + age + " лет.");
+        System.out.println("Приятно познакомиться! Пока!");
 
         scanner.close();
     }
